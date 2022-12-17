@@ -38,7 +38,7 @@ export default {
   data() {
     return {
       post: Postdata,
-      step:3,
+      step:0,
       img:'',
       선택한필터:'',
     };
